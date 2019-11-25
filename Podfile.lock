@@ -1,0 +1,23 @@
+PODS:
+  - mParticle-Apple-Inspector (0.0.1):
+    - mParticle-Apple-SDK/mParticle
+  - mParticle-Apple-SDK (7.10.5):
+    - mParticle-Apple-SDK/mParticle (= 7.10.5)
+  - mParticle-Apple-SDK/mParticle (7.10.5)
+
+DEPENDENCIES:
+  - mParticle-Apple-Inspector
+  - mParticle-Apple-SDK (~> 7.10.4)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mParticle-Apple-Inspector
+    - mParticle-Apple-SDK
+
+SPEC CHECKSUMS:
+  mParticle-Apple-Inspector: 8acdeba55f62d040b39f737678691d6fbcfe2570
+  mParticle-Apple-SDK: 1def0dc32123825453bf648b7dc73ec4fe851476
+
+PODFILE CHECKSUM: cdf85a911e081364b8631653eb60136b60581348
+
+COCOAPODS: 1.6.1
